@@ -24,13 +24,13 @@ Users should be able to:
 
 <p align="center">
  <h3>DESKTOP VIEW</h3>
-<!-- <img src="https://github.com/bheelz/Testimonials-Grid-Section/blob/main/design/Desktop.png"> -->
+<img src="https://github.com/bheelz/productPreviewCard/blob/main/design/Desktop.png">
 </p>
 
 
 <p align="center">
  <h3>MOBILE VIEW</h3>
-<!-- <img src="https://github.com/bheelz/Testimonials-Grid-Section/blob/main/design/Mobile.png"> -->
+<img src="https://github.com/bheelz/productPreviewCard/blob/main/design/Mobile.png">
 </p>
 
 ### Links
